@@ -1,0 +1,28 @@
+{
+  "name": "browser-extension",
+  "version": "0.1.0",
+  "description": "boilerplate to build extension for different browsers, google chrome, first of all",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ground0zero/browser-extension.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "google",
+    "chrome",
+    "extension",
+    "firefox",
+    "gulp",
+    "webpack"
+  ],
+  "author": "grenudi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ground0zero/browser-extension/issues"
+  },
+  "homepage": "https://github.com/ground0zero/browser-extension#readme"
+}
